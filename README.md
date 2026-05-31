@@ -17,13 +17,13 @@ I am passionate about Artificial Intelligence, Machine Learning, Deep Learning, 
 
 ### 🛠 Tech Stack
 
-**Languages : **`Python` • `C++` • `JavaScript` • `SQL`
+* Languages : `Python` • `C++` • `JavaScript` • `SQL`
 
-**AI/ML: **`Machine Learning` • `Deep Learning` •  `PyTorch` • `Scikit-Learn` • `LangChain` 
+* AI/ML: `Machine Learning` • `Deep Learning` •  `PyTorch` • `Scikit-Learn` • `LangChain` 
 
-**Domains : **`LLMs` • `RAG` • `Diffusion Models` • `GANs` • `Computer Vision`
+* Domains : `LLMs` • `RAG` • `Diffusion Models` • `GANs` • `Computer Vision`
 
-**Web :**`Node.js` • `Express.js` • `React.js` • `MySQL`
+* Web :`Node.js` • `Express.js` • `React.js` • `MySQL`
 
 ---
 
